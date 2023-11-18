@@ -6,7 +6,7 @@ Welcome to BookGPTs – where each e-book gets its own GPT companion! Our missio
 
 BookGPTs enables anyone, regardless of their technical know-how, to create a GPT-style AI for any e-book. It's all about simplifying the AI experience: just upload your e-book, and voilà – a conversational AI tailored to your book is born!
 
-website url: https://www.book-gpts.com/
+website url: https://book-gpts.com/
 
 ## Features
 
