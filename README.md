@@ -7,6 +7,9 @@ Welcome to BookGPTs – where each e-book gets its own GPT companion! Our missio
 BookGPTs enables anyone, regardless of their technical know-how, to create a GPT-style AI for any e-book. It's all about simplifying the AI experience: just upload your e-book, and voilà – a conversational AI tailored to your book is born!
 
 website url: https://book-gpts.com/
+![image](https://github.com/yuanyuanyuan/BookGPTs/assets/5524061/5e31b49c-d196-46f0-9b08-abc39c6d1fc0)
+![image](https://github.com/yuanyuanyuan/BookGPTs/assets/5524061/f9ff35fc-b262-43ad-a383-cb1aaea4d2a4)
+
 
 ## Features
 
